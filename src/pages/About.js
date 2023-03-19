@@ -9,7 +9,7 @@ function About(){
             
             <Navigation />
             <main>
-            <PagesHero title="About Us" subText="thank you my name is Ganeswararao my nativity is amalapuram but i'm currently staying in hyderabad" bgClass="about-bg" />
+            <PagesHero title="About Us" subText="thank you my name is Ganeswararao my native is amalapuram but i'm currently staying in hyderabad" bgClass="about-bg" />
             
             <div className="container content">
                 <div className="row">

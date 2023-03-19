@@ -93,7 +93,7 @@ const handleSubmit = (e) =>{
       </p>
        </div>
        <Link to="/vaccination-appointment" className="btn btn-primary btn-block mb-5">
-      More Tips
+      More
       </Link>
       </div> {/* end personal col */}
       <div className="col-sm-6">

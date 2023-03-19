@@ -14,7 +14,7 @@ function Doctors(){
             
             <Navigation />
             <main>
-            <PagesHero title="Our Doctors" subText="Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam."
+            <PagesHero title="Our TEAM AS" subText="Self-care has been practiced by people worldwide for thousands of years. The ability of individuals, families and communities to promote health, prevent disease, maintain health, and to cope with illness and disability with or without the support of a health worker, is nothing new. But new products, information and technologies are changing – and have the potential to change – how people access healthcare, as well as how they care for themselves and others."
             bgClass="doctors-bg" />
             
             <div className="container content">

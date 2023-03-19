@@ -46,7 +46,7 @@ function Navigation (){
         <Link to="/" className="nav-link">Home</Link>
       </li>
       <li className="nav-item active">
-        <Link to="/doctors" className="nav-link">Doctors</Link>
+        <Link to="/doctors" className="nav-link">SELF-CARE TEAM</Link>
       </li>
       
       <li className="nav-item dropdown">
