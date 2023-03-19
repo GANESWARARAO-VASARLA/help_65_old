@@ -18,7 +18,7 @@ function Home(){
 
             <section>
             <div className="jumbotron d-flex flex-column justify-content-center">
-        <div className="container " id="bg-container">
+        <div className="container ">
           <h1>Excellent Health Care</h1>
           <p>Wellbeing = We Treat + God&apos;s Healing 👨‍⚕️👩‍⚕️</p>
           <div>
