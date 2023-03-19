@@ -16,7 +16,7 @@ function TopInfo(){
             <div className="fixed-top top-info">
             <div className="alert alert-primary alert-dismissible" role="alert">
                 <div className="container">
-  <strong>COVID-19:</strong> <u><Link to="/vaccination-appointment">Schedule a vaccination appointment</Link></u> or <u><Link to="/covid-updates">view our vaccine updates,</Link></u> safety measures, patient and visitor policies and latest information.
+  <strong>COVID-19:</strong> <u><Link to="/vaccination-appointment">OVER ALL HEALTH CONDITION</Link></u> or <u><Link to="/covid-updates">view our vaccine updates,</Link></u> safety measures, patient and visitor policies and latest information.
   </div>
   <button type="button" onClick={closeTopInfo} className="close"  aria-label="Close">
     <span aria-hidden="true" >&times;</span>

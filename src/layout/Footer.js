@@ -51,8 +51,8 @@ function Footer (){
                 <div className="col-md-3 links">
                     <ul>
                         <h2>STAY CONNECTED</h2>
-                        <li>C123 Paradise, Accra, GH</li>
-                        <li><Link to="#">+233 247 924 225</Link></li>
+                        <li>HYDERABAD</li>
+                        <li><Link to="#">+91 95503349..</Link></li>
 
                         {/* <li>C123 Paradise, Accra, GH</li>
                         <li><a href="#">+233 247 924 225</a></li>

@@ -5,6 +5,7 @@ import {Link} from 'react-router-dom';
 import Vac from '../assets/img/vac.png';
 import Demand from '../assets/img/demand.png';
 import Appoint from '../assets/img/appoint.png';
+import "./index.css"
 
 function Home(){
     return(
@@ -17,12 +18,12 @@ function Home(){
 
             <section>
             <div className="jumbotron d-flex flex-column justify-content-center">
-        <div className="container ">
+        <div className="container " id="bg-container">
           <h1>Excellent Health Care</h1>
           <p>Wellbeing = We Treat + God&apos;s Healing 👨‍⚕️👩‍⚕️</p>
           <div>
-              <Link to="/schedule-on-demand-appointment" className="btn btn-primary one btn-lg">Schedule Your Appointment Now</Link>
-              <Link to="/vaccination-appointment" className="btn btn-primary two btn-lg">Schedule Your COVID-19 Vanccination</Link>
+              <Link to="/schedule-on-demand-appointment" className="btn btn-primary one btn-lg">65+ years old Sunitha Sharma</Link>
+              <Link to="/vaccination-appointment" className="btn btn-primary two btn-lg">OVER ALL HEALTH CONDITION</Link>
           
           </div>
         </div>

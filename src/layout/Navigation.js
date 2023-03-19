@@ -15,10 +15,10 @@ function Navigation (){
     <div className="container">
 <ul className="navbar-nav mr-auto">
       <li className="nav-item">
-      <i className="fal fa-map-marker-alt pr-1"></i> C123 Paradise Street, Asylum Down, Accra, GH
+      <i className="fal fa-map-marker-alt pr-1"></i> HYDERABAD, MADHURANAGAR , +91 95503349..
       </li>
       <li className="nav-item">
-      <i className="fal fa-clock pr-1 pl-3"></i>Mon - Sat 8.00 - 18.00. Sunday CLOSED
+      <i className="fal fa-clock pr-1 pl-3"></i>Mon - sun 24HOURS Services
       </li>
     </ul>
     {/* <ul className="navbar-nav">
@@ -27,7 +27,7 @@ function Navigation (){
     <li className="nav-item"><Link to="#"> <i className="fab fa-linkedin-in"></i></Link></li>
     <li className="nav-item"><Link to="/appointment" className="btn btn-success">Get An Appointment</Link></li>
     </ul> */}
-    <Link to="/schedule-on-demand-appointment" className="btn btn-success">Get An Appointment</Link>
+    <Link to="/schedule-on-demand-appointment" className="btn btn-success">Get An Information</Link>
     </div>
 </nav>
 
