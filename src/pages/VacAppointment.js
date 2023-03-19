@@ -57,7 +57,7 @@ const handleSubmit = (e) =>{
 
             <section style={bigBoder}>
              <div className="container mt-5">
-              <h2>Schedule your Vaccine Appointment</h2><hr />
+              <h2>LEAD A HAPPY LIFE....!</h2><hr />
               <p>{`After you've sent this request, we'll call you within one or two business days to help you make an appointment.`}</p>
               <p>You can also make an appointment by calling <span style={callNow}>(233) 24 792 4225</span>.</p>
 
@@ -70,14 +70,11 @@ const handleSubmit = (e) =>{
 </div>: ''}
   <form onSubmit={handleSubmit} className="vac-appointment-form mt-5">
     <div className="row">
-      <div className="col-sm-6">
+      <div className="col-sm-12">
         <h2>Health-Related decisions</h2><hr />
+        <img src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679220034/hero-img.jpg_kgybiw.jpg" className="img-fluid"/>
+        <p> A healthy diet is crucial to maintaining good health, especially as we age. Encourage Sunita Sharma to consume a balanced diet with plenty of fruits, vegetables, whole grains, lean protein, and healthy fats.</p>
       </div> {/* end personal col */}
-      <div className="col-sm-6">
-      <h2>CONTACT INFORMATION</h2><hr />
-
-      </div>
-
 
       <div className="col-sm-6">
       <h2>Preference</h2><hr />
