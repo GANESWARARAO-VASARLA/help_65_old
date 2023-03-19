@@ -66,7 +66,7 @@ function Footer (){
 
             <div className="copyright mt-5">
                 
-                <p>@{dateObj.startYear}-{dateObj.currentYear}<Link to="/"> WeCare Hospital </Link>. All rights reserved.</p>
+                <p>@{dateObj.startYear}-{dateObj.currentYear}<a href="https://www.linkedin.com/in/ganeswararaovasarla/"> GANESWARARAO VASARLA</a>. All rights reserved.</p>
             </div>
         </div>
     </div>
